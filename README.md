@@ -1,4 +1,4 @@
-# Thingsboard &ndash; Prototype Application
+# ThingsBoard &ndash; Prototype Application
 
 The client-side implementation of and the outputs from our prototype application for telemetry collection using ThingsBoard.
 
